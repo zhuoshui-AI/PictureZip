@@ -1,0 +1,10 @@
+D:\others\CSharpApplication\PictureZip\PictureZip\bin\Debug\net472\PictureZip.exe.config
+D:\others\CSharpApplication\PictureZip\PictureZip\bin\Debug\net472\PictureZip.exe
+D:\others\CSharpApplication\PictureZip\PictureZip\bin\Debug\net472\PictureZip.pdb
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\PictureZip.csproj.AssemblyReference.cache
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\ImageCompressor.Properties.Resources.resources
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\PictureZip.csproj.GenerateResource.cache
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\PictureZip.GeneratedMSBuildEditorConfig.editorconfig
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\PictureZip.csproj.CoreCompileInputs.cache
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\PictureZip.exe
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\net472\PictureZip.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PictureZip</id>
+    <version>1.0.0</version>
+    <authors>PictureZip</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="76d50a1991930f2ca416648f5b94d9f89249fa94" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.7.2" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="D:\others\CSharpApplication\PictureZip\PictureZip\bin\Release\net472\PictureZip.exe" target="lib\net472\PictureZip.exe" />
+  </files>
+</package>

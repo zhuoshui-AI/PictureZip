@@ -1,0 +1,4 @@
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\PictureZip.csproj.AssemblyReference.cache
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\ImageCompressor.Properties.Resources.resources
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\PictureZip.csproj.GenerateResource.cache
+D:\others\CSharpApplication\PictureZip\PictureZip\obj\Debug\PictureZip.csproj.CoreCompileInputs.cache
